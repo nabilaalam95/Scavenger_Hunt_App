@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scavenger Hunt App</string>
+    <string name="description_startpage">Follow the given clues to complete the scavenger hunt for exciting prize!</string>
+    <string name="description_winpage"> You Win! </string>
+</resources>
